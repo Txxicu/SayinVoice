@@ -2,6 +2,7 @@ extends SoundPack
 
 func _init() -> void:
 	title = "Laughs"
+    author = "Txxicu"
 	sounds = {
 		"laugh1": { "name": "Laugh Frog", "file": "laugh1.mp3" },
 		"laugh2": { "name": "Laugh Roblox", "file": "laugh2.mp3" },
